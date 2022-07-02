@@ -1,4 +1,4 @@
-# :camera:Normal Image :arrow_forward: Blur Image
+# :camera:Normal Image :arrow_forward: Blury Image
 I scripted a python script, which automate the process to convert image to its Blur version with the help of pillow library
 
 # :hammer:Built With
@@ -30,7 +30,7 @@ I scripted a python script, which automate the process to convert image to its B
 ![wp5522117-stranger-things-4k-wallpapers](https://user-images.githubusercontent.com/98146902/177001033-f0fbd189-61c0-42a5-900e-c747c00b4126.png)
 
 # :name_badge:License 
-This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Automatically-Apply-Black-and-White-Effect-On-Images/blob/master/LICENSE) 2022 vikas bhadu
+This project is licensed under [MIT License](https://github.com/beingvikasbhadu/Automatically-Apply-Blur-Effect-On-Images/blob/master/LICENSE) 2022 vikas bhadu
 
 
 # :arrow_upper_right:Future Improvements
